@@ -9,17 +9,17 @@ This project analyzes "Global HIV Risks" by classifying countries into "High Ris
 - Daisy
 
 ## **Features:**
-K-Nearest Neighbors (KNN) Classifier
+- K-Nearest Neighbors (KNN) Classifier 
   - Euclidean Distance
   - Cosine Similarity
   - Mahalanobis Distance
-Centroid-Based Classifier
+- Centroid-Based Classifier
   - Euclidean Distance
   - Cosine Similarity
   - Mahalanobis Distance
-Cross-Validation (5-fold)
+- Cross-Validation (5-fold)
   - Accuracy & Precision Metrics
-Predictions for 47 Test Countries
+- Predictions for 47 Test Countries
 
 ## **Main Files for the program:**
 - `hiv_data.csv` → Training dataset (100 countries)
