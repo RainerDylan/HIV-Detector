@@ -1,0 +1,48 @@
+Country,CountryID,Prevalence,ART_Coverage,Healthcare_Expenditure,HIV_Incidence_Rate,Physicians,Risk Level
+Andorra,101,0.1,90,3500,0.02,3.5,Low Risk
+Bahamas,102,3.3,75,2300,1.2,2.0,High Risk
+Bahrain,103,0.2,85,1800,0.05,2.5,Low Risk
+Bosnia and Herzegovina,104,0.1,80,500,0.03,1.2,Low Risk
+Brunei,105,0.1,95,2500,0.02,1.8,Low Risk
+Cyprus,106,0.2,85,2000,0.04,2.0,Low Risk
+Estonia,107,1.2,70,1500,0.9,3.2,High Risk
+Finland,108,0.1,90,4000,0.02,3.9,Low Risk
+Gambia,109,1.9,60,50,1.5,0.1,High Risk
+Grenada,110,0.5,65,800,0.3,0.5,High Risk
+Hungary,111,0.1,85,1200,0.02,3.3,Low Risk
+Iraq,112,0.1,50,200,0.05,0.8,High Risk
+Kiribati,113,0.1,55,100,0.1,0.2,High Risk
+Kyrgyzstan,114,0.2,60,150,0.15,2.1,High Risk
+Laos,115,0.3,65,60,0.2,0.5,High Risk
+Liechtenstein,116,0.1,95,6000,0.01,4.0,Low Risk
+Luxembourg,117,0.2,90,5500,0.03,3.8,Low Risk
+Maldives,118,0.1,80,300,0.05,1.0,High Risk
+Marshall Islands,119,0.2,50,200,0.1,0.2,High Risk
+Micronesia,120,0.1,55,150,0.05,0.3,High Risk
+Monaco,121,0.1,95,7000,0.01,6.0,Low Risk
+Nauru,122,0.1,60,100,0.05,0.4,High Risk
+Palau,123,0.2,70,500,0.1,1.5,Low Risk
+San Marino,124,0.1,95,4500,0.02,3.0,Low Risk
+Sao Tome and Principe,125,0.5,65,80,0.4,0.3,High Risk
+Singapore,126,0.1,90,2800,0.02,2.3,Low Risk
+Slovakia,127,0.1,85,1000,0.02,3.4,Low Risk
+Slovenia,128,0.2,90,1500,0.15,3.1,Low Risk
+Solomon Islands,129,1.1,50,100,0.8,0.2,High Risk
+Suriname,130,0.3,70,400,0.25,0.8,High Risk
+Tajikistan,131,0.1,60,100,0.05,0.6,High Risk
+Tonga,132,0.1,55,200,0.05,0.5,High Risk
+Turkmenistan,133,0.1,50,150,0.05,1.0,High Risk
+Tuvalu,134,0.1,60,100,0.05,0.2,High Risk
+United Arab Emirates,135,0.2,85,1500,0.05,2.5,Low Risk
+Uzbekistan,136,0.1,65,200,0.3,1.0,High Risk
+Vanuatu,137,0.2,55,100,0.15,0.2,High Risk
+Yemen,138,0.1,30,50,0.1,0.2,High Risk
+Aruba,139,0.2,80,1000,0.1,1.5,Low Risk
+Bermuda,140,0.2,85,2000,0.1,3.0,Low Risk
+Cayman Islands,141,0.1,80,1800,0.1,2.8,Low Risk
+Greenland,142,0.1,85,1500,0.1,2.3,Low Risk
+Montserrat,143,0.2,70,1000,0.1,1.8,Low Risk
+Saint Kitts and Nevis,144,0.3,75,1200,0.2,2.0,Low Risk
+Saint Lucia,145,0.1,70,500,0.05,1.5,Low Risk
+Saint Vincent,146,0.1,70,500,0.05,1.5,Low Risk
+Seychelles,147,0.1,70,500,0.05,1.5,Low Risk

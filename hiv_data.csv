@@ -1,0 +1,101 @@
+Country,CountryID,Prevalence,ART_Coverage,Healthcare_Expenditure,HIV_Incidence_Rate,Physicians,Risk Level
+Afghanistan,1,0.1,9,81.32,0.04,0.3,High Risk
+Albania,2,0.1,58,464.74,0.03,1.9,Low Risk
+Algeria,3,0.1,76,204.57,0.05,1,High Risk
+Angola,4,1.4,50,64.16,0.44,0.2,High Risk
+Argentina,5,0.4,78,1044.77,0.09,4.1,Low Risk
+Armenia,6,0.3,54,613,0.19,3.1,Low Risk
+Australia,7,0.1,97,7055.37,0.01,4,Low Risk
+Azerbaijan,8,0.1,72,249,0.05,3.1,High Risk
+Bangladesh,9,0.1,49,57.94,0.01,0.7,High Risk
+Barbados,10,0.9,69,1400.44,0.14,3,Low Risk
+Belarus,11,0.3,81,468,0.1,4.5,Low Risk
+Belize,12,1.2,49,310.2,0.39,1.1,High Risk
+Bhutan,13,0.2,55,120.43,0.1,0.6,High Risk
+Botswana,14,19.7,95,457.46,1.87,0.4,High Risk
+Brazil,15,0.6,78,761.27,0.24,2.1,Low Risk
+Bulgaria,16,0.1,62,1040,0.03,4.9,Low Risk
+Burkina Faso,17,0.6,77,56.95,0.08,0.1,High Risk
+Burundi,18,1,91,24.27,0.12,0.1,High Risk
+Cabo Verde,19,1,72,247.91,0.52,0.8,High Risk
+Cambodia,20,0.6,89,122.42,0.07,0.2,High Risk
+Chad,21,1.1,61,35.63,0.25,0.1,High Risk
+Chile,22,0.6,70,1380.69,0.18,3.2,Low Risk
+Comoros,23,0.1,65,99.04,0.01,0.4,High Risk
+Costa Rica,24,0.5,66,948.92,0.17,2.6,Low Risk
+Croatia,25,0.1,83,1384,0.01,3.6,Low Risk
+Cuba,26,0.5,65,1186.16,0.18,9.4,Low Risk
+Denmark,27,0.1,92,6332,0.01,4.4,Low Risk
+Djibouti,28,0.9,31,87.75,0.29,0.2,High Risk
+Dominican Republic,29,1,62,416.9,0.36,2.2,High Risk
+Ecuador,30,0.4,80,494.31,0.12,2.3,Low Risk
+El Salvador,31,0.5,69,442.21,0.13,1.6,Low Risk
+Eritrea,32,0.6,68,25.36,0.06,0.1,High Risk
+Eswatini,33,27.5,93,279.91,4.19,1.6,High Risk
+Ethiopia,34,0.9,85,26.48,0.07,0.1,High Risk
+Fiji,35,0.4,28,250.03,0.4,0.8,High Risk
+Gabon,36,3.1,58,233.87,0.79,0.5,High Risk
+Georgia,37,0.3,72,484,0.14,5.6,Low Risk
+Ghana,38,1.5,45,100,0.56,0.1,High Risk
+Greece,39,0.2,72,1845.78,0.05,6.4,Low Risk
+Guatemala,40,0.3,72,340.96,0.09,1.3,Low Risk
+Guinea,41,1.4,70,44.69,0.33,0,High Risk
+Guinea-Bissau,42,2.4,64,68.82,0.53,0.2,High Risk
+Guyana,43,1.7,66,470.57,0.73,1.4,High Risk
+Haiti,44,1.7,84,57.88,0.48,0.2,High Risk
+Honduras,45,0.3,68,253.92,0.05,0.5,High Risk
+Iceland,46,0.1,91,6400,0.03,4.5,Low Risk
+India,47,0.2,70,74,0.05,0.7,High Risk
+Indonesia,48,0.3,31,160.64,0.1,0.7,High Risk
+Ireland,49,0.2,90,6349.48,0.04,4.1,Low Risk
+Jamaica,50,1.1,56,372.45,0.42,0.6,High Risk
+Jordan,51,0.1,61,299.07,0.01,2.5,High Risk
+Kazakhstan,52,0.3,73,403,0.12,4,Low Risk
+Kenya,53,3.7,94,94.67,0.31,0.1,High Risk
+Kuwait,54,0.1,79,1860.78,0.04,2.3,Low Risk
+Latvia,55,0.4,47,1898,0.15,3.4,Low Risk
+Lebanon,56,0.1,79,307.13,0.05,2.6,High Risk
+Lesotho,57,20.5,89,114.71,3,0.2,High Risk
+Liberia,58,0.9,79,112.27,0.15,0.2,High Risk
+Lithuania,59,0.2,47,1868,0.06,5.1,Low Risk
+Luxembourg,60,0.3,80,6956,0.08,3,Low Risk
+Malawi,61,7.6,91,46.56,0.61,0,High Risk
+Malaysia,62,0.3,57,487.01,0.09,2.3,Low Risk
+Mali,63,0.9,58,40.12,0.24,0.2,High Risk
+Malta,64,0.2,71,3642,0.09,4.3,Low Risk
+Mauritania,65,0.2,66,89.29,0.06,0.2,High Risk
+Mauritius,66,1.2,24,564.9,0.86,1.2,High Risk
+Mexico,67,0.4,64,610.65,0.15,2.6,Low Risk
+Mongolia,68,0.1,39,315.58,0.01,3.9,Low Risk
+Montenegro,69,0.1,67,985,0.04,2.8,Low Risk
+Morocco,70,0.1,74,221.11,0.03,0.7,High Risk
+Mozambique,71,11.8,86,44.52,2.59,0.1,High Risk
+Myanmar,72,0.7,77,65,0.19,0.8,High Risk
+Namibia,73,11.5,89,456.44,2.2,0.5,High Risk
+Nepal,74,0.1,82,65,0.01,0.9,High Risk
+New Zealand,75,0.1,90,4906.07,0.01,3.6,Low Risk
+Nicaragua,76,0.2,60,198.08,0.1,0.7,High Risk
+Niger,77,0.2,70,34.34,0.05,0,High Risk
+Nigeria,78,1.4,85,83.84,0.34,0.4,High Risk
+North Macedonia,79,0.1,61,560,0.02,3,Low Risk
+Oman,80,0.1,73,852.62,0.02,2.1,Low Risk
+Panama,81,0.9,67,1415.24,0.35,1.7,Low Risk
+Papua New Guinea,82,1,64,61.41,0.65,0.1,High Risk
+Paraguay,83,0.4,58,478.71,0.2,3.9,Low Risk
+Peru,84,0.4,81,412.21,0.19,1.6,Low Risk
+Philippines,85,0.2,43,178,0.24,0.8,High Risk
+Qatar,86,0.1,45,1934.08,0.04,2.5,Low Risk
+Romania,87,0.1,80,963,0.02,3.5,Low Risk
+Rwanda,88,2.7,96,60.22,0.24,0.1,High Risk
+Saudi Arabia,89,0.1,94,1442,0.04,3.1,Low Risk
+Senegal,90,0.4,80,71.22,0.16,0.1,High Risk
+Serbia,91,0.1,65,919.17,0.03,2.8,Low Risk
+Sierra Leone,92,1.3,83,43.16,0.39,0,High Risk
+South Africa,93,16.6,77,583.67,2.7,0.8,High Risk
+Sudan,94,0.2,23,21.58,0.05,0.3,High Risk
+Syrian Arab Republic,95,0.1,57,63.14,0.11,1.2,High Risk
+Thailand,96,0.9,82,364.37,0.83,0.9,High Risk
+Uganda,97,5.6,83,43.45,0.01,0.2,High Risk
+Uruguay,98,0.6,75,1620.33,0.13,4.6,Low Risk
+Viet Nam,99,0.3,78,172.55,0.08,0.8,High Risk
+Zimbabwe,100,11.7,95,62.74,0.26,0.2,High Risk
